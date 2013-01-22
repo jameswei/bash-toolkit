@@ -18,9 +18,7 @@ configuraion and tools for developers in Bash for efficiency.
 
 ## Installation
 
-1. `$ wget --no-check-certificate "http://git.io/uHMv1w" -O install.sh`
-1. `$ chmod +x install.sh`
-1. `$ ./install.sh`
+1. `$ wget --no-check-certificate "http://git.io/uHMv1w" -O - | bash -`
 
 ## Copyright
 
